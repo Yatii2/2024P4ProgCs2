@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            ConsoleMon Console = new ConsoleMon();
+            Skill skill = new Skill();
         }
     }
 }
