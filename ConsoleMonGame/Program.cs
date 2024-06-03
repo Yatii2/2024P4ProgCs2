@@ -20,6 +20,6 @@
 
             Console.WriteLine(mon.energy == -20);
         }
-
+      
     }
 }

@@ -13,6 +13,6 @@
                 Console.WriteLine("Dat is mijn kleur!");
             }
         }
-       
+
     }
 }
