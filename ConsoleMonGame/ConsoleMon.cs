@@ -14,5 +14,6 @@
         {
             this.energy = energy;
         }
+        private List<Skill> skills = new List<Skill>();
     }
 }
