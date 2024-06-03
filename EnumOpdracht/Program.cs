@@ -8,7 +8,10 @@
 
             myMainThemeColor = Colors.Purple;
 
-
+            if (myMainThemeColor == Colors.Purple)
+            {
+                Console.WriteLine("Dat is mijn kleur!");
+            }
         }
        
     }
