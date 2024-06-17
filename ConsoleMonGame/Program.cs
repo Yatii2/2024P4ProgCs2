@@ -8,6 +8,7 @@
             ConsoleMon Console = new ConsoleMon();
             Skill skill = new Skill();
             TestConsoleMonFunctions();
+            TestFactoryFunctions();
         }
         static void TestConsoleMonFunctions()
         {
